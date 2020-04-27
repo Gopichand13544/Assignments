@@ -1,0 +1,4 @@
+com\cg\main\BankMain.class
+com\cg\details\OpenAccount.class
+com\cg\details\Customer.class
+com\cg\details\Transaction.class
